@@ -10,7 +10,7 @@
 
 **Geda Website:https://geda-technologies.pages.dev/**
 
-![spin](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29nM2szOXlmd283eGsyejNmbXNxMThnemd3b2NoZ2RqZmVqMTU0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JL9n0ANQE8J707crmu/giphy.gif)
+![Spinning GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29nM2szOXlmd283eGsyejNmbXNxMThnemd3b2NoZ2RqZmVqMTU0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JL9n0ANQE8J707crmu/giphy.gif)
 
 #  GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=geda-technology&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
