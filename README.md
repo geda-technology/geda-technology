@@ -7,4 +7,5 @@
 *I'm a self-taught developer interested in software development, technology, and cybersecurity.*
 
 **This account is managed by Alexander, founder and owner of GEDA Technologies.**
+
 **Gedas Website:https://geda-technologies.pages.dev/**
