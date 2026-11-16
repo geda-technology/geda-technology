@@ -1,3 +1,4 @@
+![](forest.jpg)
 ## Hi there 👋
 
 ![GEDA Logo](geda.png)
