@@ -2,13 +2,13 @@
 
 ![GEDA Logo](geda.png)
 
-**Welcome to my profile!** Here you'll find interesting projects, information about me, and links to my website.
+**Welcome to my GitHub profile!!** Here you'll find my interesting projects, information about me, and links to my website.
 
 *I'm a self-taught developer interested in software development, technology, and cybersecurity.*
 
-**This account is managed by Alexander, founder and owner of GEDA Technologies.**
+**This account is managed by Alexander, founder  of GEDA Technologies.**
 
-**Gedas Website:https://geda-technologies.pages.dev/**
+**Geda Website:https://geda-technologies.pages.dev/**
 
 ![spin](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29nM2szOXlmd283eGsyejNmbXNxMThnemd3b2NoZ2RqZmVqMTU0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JL9n0ANQE8J707crmu/giphy.gif)
 
