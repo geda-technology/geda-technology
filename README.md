@@ -4,6 +4,6 @@
 
 **Welcome to my profile!** Here you'll find interesting projects, information about me, and links to my website.
 
-I'm a self-taught developer interested in software development, technology, and cybersecurity.
+*I'm a self-taught developer interested in software development, technology, and cybersecurity.*
 
-**This account is managed by Alexander, founder of GEDA Technologies.**
+**This account is managed by Alexander, founder and owner of GEDA Technologies.**
